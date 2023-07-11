@@ -1,0 +1,166 @@
+<mxfile host="app.diagrams.net" modified="2023-07-11T13:37:51.986Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="EZ7ssjPImSmIMlrIxuAN" version="21.6.1" type="github" pages="4">
+  <diagram name="数据导入" id="-tCUA66pgj7SWMTktZeX">
+    <mxGraphModel dx="1877" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xZ27Vhk-dxr4Gn2EX7ID-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="xZ27Vhk-dxr4Gn2EX7ID-1" target="xZ27Vhk-dxr4Gn2EX7ID-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xZ27Vhk-dxr4Gn2EX7ID-1" value="登录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="180" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xZ27Vhk-dxr4Gn2EX7ID-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xZ27Vhk-dxr4Gn2EX7ID-2" target="xZ27Vhk-dxr4Gn2EX7ID-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xZ27Vhk-dxr4Gn2EX7ID-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xZ27Vhk-dxr4Gn2EX7ID-2" target="xZ27Vhk-dxr4Gn2EX7ID-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xZ27Vhk-dxr4Gn2EX7ID-2" value="是否管理员" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xZ27Vhk-dxr4Gn2EX7ID-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="xZ27Vhk-dxr4Gn2EX7ID-4" target="xZ27Vhk-dxr4Gn2EX7ID-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xZ27Vhk-dxr4Gn2EX7ID-4" value="所有界面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xZ27Vhk-dxr4Gn2EX7ID-6" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="350" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xZ27Vhk-dxr4Gn2EX7ID-7" value="部分页面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xZ27Vhk-dxr4Gn2EX7ID-9" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-370" y="540" as="sourcePoint" />
+            <mxPoint x="770" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xZ27Vhk-dxr4Gn2EX7ID-10" value="数据导入" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="500" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xZ27Vhk-dxr4Gn2EX7ID-12" value="项目数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="585" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xZ27Vhk-dxr4Gn2EX7ID-14" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="690" width="700" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="xZ27Vhk-dxr4Gn2EX7ID-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="790" width="550" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xZ27Vhk-dxr4Gn2EX7ID-16" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="850" width="550" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xZ27Vhk-dxr4Gn2EX7ID-17" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="820" width="550" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xZ27Vhk-dxr4Gn2EX7ID-18" value="ID" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="760" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xZ27Vhk-dxr4Gn2EX7ID-19" value="名称" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="760" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xZ27Vhk-dxr4Gn2EX7ID-20" value="描述" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="760" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xZ27Vhk-dxr4Gn2EX7ID-21" value="描述" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="760" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xZ27Vhk-dxr4Gn2EX7ID-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xZ27Vhk-dxr4Gn2EX7ID-22" target="xZ27Vhk-dxr4Gn2EX7ID-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xZ27Vhk-dxr4Gn2EX7ID-22" value="搜索" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="700" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xZ27Vhk-dxr4Gn2EX7ID-23" value="&lt;h1&gt;搜索&lt;/h1&gt;&lt;div&gt;选择框-&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;物种类型&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="570" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="KMz-j-XkmD0P_2ySo-3M-1" value="浮游生物" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-670" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="用户管理" id="ibj9_Ij73F3EYYACSwZE">
+    <mxGraphModel dx="2901" dy="1116" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WtAzUzng9-TVJXO3P_Vh-0" />
+        <mxCell id="WtAzUzng9-TVJXO3P_Vh-1" parent="WtAzUzng9-TVJXO3P_Vh-0" />
+        <mxCell id="WtAzUzng9-TVJXO3P_Vh-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WtAzUzng9-TVJXO3P_Vh-1" source="WtAzUzng9-TVJXO3P_Vh-3" target="WtAzUzng9-TVJXO3P_Vh-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WtAzUzng9-TVJXO3P_Vh-3" value="登录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WtAzUzng9-TVJXO3P_Vh-1">
+          <mxGeometry x="294" y="180" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WtAzUzng9-TVJXO3P_Vh-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WtAzUzng9-TVJXO3P_Vh-1" source="WtAzUzng9-TVJXO3P_Vh-6" target="WtAzUzng9-TVJXO3P_Vh-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WtAzUzng9-TVJXO3P_Vh-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WtAzUzng9-TVJXO3P_Vh-1" source="WtAzUzng9-TVJXO3P_Vh-6" target="WtAzUzng9-TVJXO3P_Vh-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WtAzUzng9-TVJXO3P_Vh-6" value="是否管理员" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WtAzUzng9-TVJXO3P_Vh-1">
+          <mxGeometry x="294" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WtAzUzng9-TVJXO3P_Vh-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WtAzUzng9-TVJXO3P_Vh-1" source="WtAzUzng9-TVJXO3P_Vh-8" target="WtAzUzng9-TVJXO3P_Vh-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WtAzUzng9-TVJXO3P_Vh-8" value="所有界面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WtAzUzng9-TVJXO3P_Vh-1">
+          <mxGeometry x="140" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WtAzUzng9-TVJXO3P_Vh-9" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WtAzUzng9-TVJXO3P_Vh-1">
+          <mxGeometry x="200" y="350" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WtAzUzng9-TVJXO3P_Vh-10" value="部分页面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WtAzUzng9-TVJXO3P_Vh-1">
+          <mxGeometry x="460" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WtAzUzng9-TVJXO3P_Vh-11" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="WtAzUzng9-TVJXO3P_Vh-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-370" y="540" as="sourcePoint" />
+            <mxPoint x="770" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WtAzUzng9-TVJXO3P_Vh-13" value="用户管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WtAzUzng9-TVJXO3P_Vh-1">
+          <mxGeometry x="140" y="585" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="jbfR7F7PvsqBJODIcwoR" name="条形码生成">
+    <mxGraphModel dx="1050" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CYGiLJNHftZfxquBuysK-1" value="生成DNA条形码主要包括以下几个步骤:&lt;span style=&quot;box-sizing: inherit; display: block; height: 8px; color: rgb(29, 28, 29); font-family: NotoSansSC, Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 15px; font-variant-ligatures: common-ligatures; text-align: left; background-color: rgb(248, 248, 248);&quot; data-stringify-type=&quot;paragraph-break&quot; class=&quot;c-mrkdwn__br&quot; aria-label=&quot;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(29, 28, 29); font-family: NotoSansSC, Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 15px; font-variant-ligatures: common-ligatures; text-align: left; background-color: rgb(248, 248, 248);&quot;&gt;1. 采集样本,提取DNA&lt;/span&gt;&lt;span style=&quot;box-sizing: inherit; display: block; height: 8px; color: rgb(29, 28, 29); font-family: NotoSansSC, Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 15px; font-variant-ligatures: common-ligatures; text-align: left; background-color: rgb(248, 248, 248);&quot; data-stringify-type=&quot;paragraph-break&quot; class=&quot;c-mrkdwn__br&quot; aria-label=&quot;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(29, 28, 29); font-family: NotoSansSC, Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 15px; font-variant-ligatures: common-ligatures; text-align: left; background-color: rgb(248, 248, 248);&quot;&gt;从样本中提取总DNA,常用方法有CTAB法、琼脂糖凝胶电泳法等。&lt;/span&gt;&lt;span style=&quot;box-sizing: inherit; display: block; height: 8px; color: rgb(29, 28, 29); font-family: NotoSansSC, Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 15px; font-variant-ligatures: common-ligatures; text-align: left; background-color: rgb(248, 248, 248);&quot; data-stringify-type=&quot;paragraph-break&quot; class=&quot;c-mrkdwn__br&quot; aria-label=&quot;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(29, 28, 29); font-family: NotoSansSC, Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 15px; font-variant-ligatures: common-ligatures; text-align: left; background-color: rgb(248, 248, 248);&quot;&gt;2. PCR扩增目标基因片段&lt;/span&gt;&lt;span style=&quot;box-sizing: inherit; display: block; height: 8px; color: rgb(29, 28, 29); font-family: NotoSansSC, Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 15px; font-variant-ligatures: common-ligatures; text-align: left; background-color: rgb(248, 248, 248);&quot; data-stringify-type=&quot;paragraph-break&quot; class=&quot;c-mrkdwn__br&quot; aria-label=&quot;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(29, 28, 29); font-family: NotoSansSC, Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 15px; font-variant-ligatures: common-ligatures; text-align: left; background-color: rgb(248, 248, 248);&quot;&gt;使用通用引物或特异引物对目标DNA序列(如COI、ITS等)进行PCR扩增。&lt;/span&gt;&lt;span style=&quot;box-sizing: inherit; display: block; height: 8px; color: rgb(29, 28, 29); font-family: NotoSansSC, Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 15px; font-variant-ligatures: common-ligatures; text-align: left; background-color: rgb(248, 248, 248);&quot; data-stringify-type=&quot;paragraph-break&quot; class=&quot;c-mrkdwn__br&quot; aria-label=&quot;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(29, 28, 29); font-family: NotoSansSC, Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 15px; font-variant-ligatures: common-ligatures; text-align: left; background-color: rgb(248, 248, 248);&quot;&gt;3. 测序&lt;/span&gt;&lt;span style=&quot;box-sizing: inherit; display: block; height: 8px; color: rgb(29, 28, 29); font-family: NotoSansSC, Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 15px; font-variant-ligatures: common-ligatures; text-align: left; background-color: rgb(248, 248, 248);&quot; data-stringify-type=&quot;paragraph-break&quot; class=&quot;c-mrkdwn__br&quot; aria-label=&quot;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(29, 28, 29); font-family: NotoSansSC, Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 15px; font-variant-ligatures: common-ligatures; text-align: left; background-color: rgb(248, 248, 248);&quot;&gt;对PCR产物进行DNA测序,获取目标序列信息。常用Sanger测序或高通量测序。&lt;/span&gt;&lt;span style=&quot;box-sizing: inherit; display: block; height: 8px; color: rgb(29, 28, 29); font-family: NotoSansSC, Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 15px; font-variant-ligatures: common-ligatures; text-align: left; background-color: rgb(248, 248, 248);&quot; data-stringify-type=&quot;paragraph-break&quot; class=&quot;c-mrkdwn__br&quot; aria-label=&quot;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(29, 28, 29); font-family: NotoSansSC, Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 15px; font-variant-ligatures: common-ligatures; text-align: left; background-color: rgb(248, 248, 248);&quot;&gt;4. 生物信息学分析&lt;/span&gt;&lt;span style=&quot;box-sizing: inherit; display: block; height: 8px; color: rgb(29, 28, 29); font-family: NotoSansSC, Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 15px; font-variant-ligatures: common-ligatures; text-align: left; background-color: rgb(248, 248, 248);&quot; data-stringify-type=&quot;paragraph-break&quot; class=&quot;c-mrkdwn__br&quot; aria-label=&quot;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(29, 28, 29); font-family: NotoSansSC, Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 15px; font-variant-ligatures: common-ligatures; text-align: left; background-color: rgb(248, 248, 248);&quot;&gt;将测序结果与已知DNA序列数据库(GenBank等)进行比对,获知样本的分类学信息。&lt;/span&gt;&lt;span style=&quot;box-sizing: inherit; display: block; height: 8px; color: rgb(29, 28, 29); font-family: NotoSansSC, Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 15px; font-variant-ligatures: common-ligatures; text-align: left; background-color: rgb(248, 248, 248);&quot; data-stringify-type=&quot;paragraph-break&quot; class=&quot;c-mrkdwn__br&quot; aria-label=&quot;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(29, 28, 29); font-family: NotoSansSC, Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 15px; font-variant-ligatures: common-ligatures; text-align: left; background-color: rgb(248, 248, 248);&quot;&gt;5. 条形码生成&lt;/span&gt;&lt;span style=&quot;box-sizing: inherit; display: block; height: 8px; color: rgb(29, 28, 29); font-family: NotoSansSC, Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 15px; font-variant-ligatures: common-ligatures; text-align: left; background-color: rgb(248, 248, 248);&quot; data-stringify-type=&quot;paragraph-break&quot; class=&quot;c-mrkdwn__br&quot; aria-label=&quot;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(29, 28, 29); font-family: NotoSansSC, Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 15px; font-variant-ligatures: common-ligatures; text-align: left; background-color: rgb(248, 248, 248);&quot;&gt;根据分类学信息,为每个样本生成唯一的DNA条形码序列。条形码以字母组合的形式表示。&lt;/span&gt;&lt;span style=&quot;box-sizing: inherit; display: block; height: 8px; color: rgb(29, 28, 29); font-family: NotoSansSC, Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 15px; font-variant-ligatures: common-ligatures; text-align: left; background-color: rgb(248, 248, 248);&quot; data-stringify-type=&quot;paragraph-break&quot; class=&quot;c-mrkdwn__br&quot; aria-label=&quot;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(29, 28, 29); font-family: NotoSansSC, Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 15px; font-variant-ligatures: common-ligatures; text-align: left; background-color: rgb(248, 248, 248);&quot;&gt;6. 条形码数据库&lt;/span&gt;&lt;span style=&quot;box-sizing: inherit; display: block; height: 8px; color: rgb(29, 28, 29); font-family: NotoSansSC, Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 15px; font-variant-ligatures: common-ligatures; text-align: left; background-color: rgb(248, 248, 248);&quot; data-stringify-type=&quot;paragraph-break&quot; class=&quot;c-mrkdwn__br&quot; aria-label=&quot;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(29, 28, 29); font-family: NotoSansSC, Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 15px; font-variant-ligatures: common-ligatures; text-align: left; background-color: rgb(248, 248, 248);&quot;&gt;收集和整理不同物种的DNA条形码,建立数据库(BOLD系统等)。&lt;/span&gt;&lt;span style=&quot;box-sizing: inherit; display: block; height: 8px; color: rgb(29, 28, 29); font-family: NotoSansSC, Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 15px; font-variant-ligatures: common-ligatures; text-align: left; background-color: rgb(248, 248, 248);&quot; data-stringify-type=&quot;paragraph-break&quot; class=&quot;c-mrkdwn__br&quot; aria-label=&quot;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(29, 28, 29); font-family: NotoSansSC, Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 15px; font-variant-ligatures: common-ligatures; text-align: left; background-color: rgb(248, 248, 248);&quot;&gt;7. 生物鉴定&lt;/span&gt;&lt;span style=&quot;box-sizing: inherit; display: block; height: 8px; color: rgb(29, 28, 29); font-family: NotoSansSC, Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 15px; font-variant-ligatures: common-ligatures; text-align: left; background-color: rgb(248, 248, 248);&quot; data-stringify-type=&quot;paragraph-break&quot; class=&quot;c-mrkdwn__br&quot; aria-label=&quot;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(29, 28, 29); font-family: NotoSansSC, Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 15px; font-variant-ligatures: common-ligatures; text-align: left; background-color: rgb(248, 248, 248);&quot;&gt;将未知样本的条形码与数据库中已有条形码进行比对,实现样本鉴定。&lt;/span&gt;&lt;span style=&quot;box-sizing: inherit; display: block; height: 8px; color: rgb(29, 28, 29); font-family: NotoSansSC, Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 15px; font-variant-ligatures: common-ligatures; text-align: left; background-color: rgb(248, 248, 248);&quot; data-stringify-type=&quot;paragraph-break&quot; class=&quot;c-mrkdwn__br&quot; aria-label=&quot;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(29, 28, 29); font-family: NotoSansSC, Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 15px; font-variant-ligatures: common-ligatures; text-align: left; background-color: rgb(248, 248, 248);&quot;&gt;综上,通过PCR扩增、测序、数据库比对等过程可以获得DNA条形码,并利用条形码进行生物分类鉴定&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="200" width="920" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CYGiLJNHftZfxquBuysK-2" value="采集样本，提取DNA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CYGiLJNHftZfxquBuysK-3" value="PCR扩增" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="107" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CYGiLJNHftZfxquBuysK-5" value="DNA条形码数据库" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CYGiLJNHftZfxquBuysK-6" value="条形码生成" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CYGiLJNHftZfxquBuysK-7" value="生物信息学分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CYGiLJNHftZfxquBuysK-8" value="测序" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="vZmc7knuX6zFFZQ-DT52" name="第 4 页">
+    <mxGraphModel dx="1050" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
